@@ -1,0 +1,301 @@
+{
+    "4147287051": {
+        "browseNodeId": "4147287051",
+        "browseNodeName": "Apps & Games",
+        "browseNodeStoreContextName": "Apps for Android",
+        "browsePathById": "2544160051,4147287051",
+        "browsePathByName": "Apps & Games",
+        "hasChildren": true,
+        "childNodes": "4147288051,4147292051,4147300051,4147301051,4147308051,4147309051,4147320051,4147325051,4147374051,4147385051,4147505051,4147536051,4147544051,4147584051,4147589051,4147595051,4147609051,4147616051,4147639051,4147640051,4147648051,4147664051,4147665051,4147677051,4147712051,4147717051,4147724051,4147757051",
+        "productTypeDefinitions": "MOBILE_APPLICATION"
+    },
+    "4851454051": {
+        "browseNodeId": "4851454051",
+        "browseNodeName": "Automotive",
+        "browseNodeStoreContextName": "Automotive",
+        "browsePathById": "4851453051,4851454051",
+        "browsePathByName": "Automotive",
+        "hasChildren": true,
+        "childNodes": "4957984051,4957985051,4957986051,5081779051,4957983051,4957987051,4957988051,4957989051,4957990051,4957991051,4957992051,4957993051,4957994051,4957995051,4957996051",
+        "productTypeDefinitions": "AUTO_PART,POWERSPORTS_PROTECTIVE_GEAR,POWERSPORTS_VEHICLE_PART"
+    },
+    "4851511051": {
+        "browseNodeId": "4851511051",
+        "browseNodeName": "Baby",
+        "browseNodeStoreContextName": "Baby Products",
+        "browsePathById": "4851510051,4851511051",
+        "browsePathByName": "Baby",
+        "hasChildren": true,
+        "childNodes": "5081699051,5030678051,5081700051,5130730051,5081701051,5131097051,5081702051,5081703051,5081704051,5081705051,5081706051,5081707051,5081708051,5081709051",
+        "productTypeDefinitions": "BABY_PRODUCT"
+    },
+    "4851568051": {
+        "browseNodeId": "4851568051",
+        "browseNodeName": "Beauty",
+        "browseNodeStoreContextName": "Beauty",
+        "browsePathById": "4851567051,4851568051",
+        "browsePathByName": "Beauty",
+        "hasChildren": true,
+        "childNodes": "5150067051,5150069051,5150070051,5150071051,5150072051,10389698051,5150073051,5150075051",
+        "productTypeDefinitions": "BEAUTY"
+    },
+    "7229035051": {
+        "browseNodeId": "7229035051",
+        "browseNodeName": "Bodhi",
+        "browseNodeStoreContextName": [],
+        "browsePathById": "7229034051,7229035051",
+        "browsePathByName": "Bodhi",
+        "hasChildren": true,
+        "childNodes": "7240326051,7240327051,7348335051,7240328051,7231850051,7240329051,7240330051,7240331051,7240333051,7231898051,7240332051,7348332051,7348337051,7348333051,7348339051,7240334051,7348340051,7240335051,7348338051,7231905051,7348334051,7348336051",
+        "productTypeDefinitions": []
+    },
+    "4851627051": {
+        "browseNodeId": "4851627051",
+        "browseNodeName": "Books",
+        "browseNodeStoreContextName": "Books Store",
+        "browsePathById": "4851626051,4851627051",
+        "browsePathByName": "Books",
+        "hasChildren": true,
+        "childNodes": "4893842051,4893843051,4893844051,4893845051,4893846051,4893847051,4893848051,4893849051,4893850051,4893851051,4893852051,4893853051,4893854051,4893855051,4893856051,4893857051,4893858051,4893859051,4893860051,4893861051,4893862051,4893863051,4893864051,4893865051,4893866051,4893867051,4893868051,4893869051,4893870051,4893871051,4893872051,4893873051",
+        "productTypeDefinitions": "ABIS_BOOK"
+    },
+    "4852331051": {
+        "browseNodeId": "4852331051",
+        "browseNodeName": "CDs & Vinyl",
+        "browseNodeStoreContextName": "Music",
+        "browsePathById": "4852330051,4852331051",
+        "browsePathByName": "CDs & Vinyl",
+        "hasChildren": true,
+        "childNodes": "5260164051,5260165051,5260166051,5260167051,5260168051,5260169051,5260170051,5260171051,5260172051,5260173051,5260174051,5260175051,5260176051,5260177051,5260178051,5260179051,5260180051,5260181051,5260182051,5260183051,5260184051",
+        "productTypeDefinitions": "ABIS_MUSIC"
+    },
+    "4851857051": {
+        "browseNodeId": "4851857051",
+        "browseNodeName": "Clothing, Shoes & Accessories",
+        "browseNodeStoreContextName": "Clothing, Shoes & Accessories",
+        "browsePathById": "4851856051,4851857051",
+        "browsePathByName": "Clothing, Shoes & Accessories",
+        "hasChildren": true,
+        "childNodes": "5130730051,5130731051,5130732051,5130733051,5130734051,5130735051,5130736051,10352226051,5130737051,5130738051,5130739051",
+        "productTypeDefinitions": "APPAREL,ACCESSORY,DRESS,OUTERWEAR,HAT,SWEATER,PANTS,SHIRT,SHORTS,SKIRT,SOCKSHOSIERY,ABIS_APPAREL"
+    },
+    "4851684051": {
+        "browseNodeId": "4851684051",
+        "browseNodeName": "Computers",
+        "browseNodeStoreContextName": "Computers & Accessories",
+        "browsePathById": "4851683051,4851684051",
+        "browsePathByName": "Computers",
+        "hasChildren": true,
+        "childNodes": "4913305051,4913306051,4913307051,4913308051,4915637051,4913309051,4913310051,4913311051,4913312051,4913313051,4913314051,4913315051,4913316051,4913317051,4913318051,4913319051,4913320051",
+        "productTypeDefinitions": "PERSONAL_COMPUTER,NOTEBOOK_COMPUTER,VIDEO_CARD,COMPUTER,SOUND_CARD,COMPUTER_PROCESSOR,SYSTEM_CABINET,SYSTEM_POWER_DEVICE,FLASH_MEMORY,MEMORY_READER,COMPUTER_SPEAKER,COMPUTER_INPUT_DEVICE,WEBCAM,KEYBOARDS,COMPUTER_ADD_ON,MONITOR,INSTALLATION_SERVICES"
+    },
+    "4851800051": {
+        "browseNodeId": "4851800051",
+        "browseNodeName": "Electronics",
+        "browseNodeStoreContextName": "Electronics",
+        "browsePathById": "4851799051,4851800051",
+        "browsePathByName": "Electronics",
+        "hasChildren": true,
+        "childNodes": "4885075051,4885076051,4885077051,4885087051,7058119051,4885078051,4885090051,4885080051,4885081051,4885092051,4885082051,4885083051,4913319051,4885084051,4885079051,4885085051,4885086051",
+        "productTypeDefinitions": "AUDIO_OR_VIDEO,CONSUMER_ELECTRONICS,INSTALLATION_SERVICES,RADAR_DETECTOR,TWO_WAY_RADIO,MEDIA_STORAGE,PORTABLE_AUDIO,RADIO,RECEIVER_OR_AMPLIFIER,SPEAKERS,CABLE_OR_ADAPTER,ACCESSORY_OR_PART_OR_SUPPLY,HANDHELD_OR_PDA,MP3_PLAYER,COMBINED_AV_DEVICE,TUNER,HOME_THEATER_SYSTEM_OR_HTIB,VCR,DVD_PLAYER_OR_RECORDER,VIDEO_DEVICE"
+    },
+    "4103127051": {
+        "browseNodeId": "4103127051",
+        "browseNodeName": "Everything Else",
+        "browseNodeStoreContextName": "Categories",
+        "browsePathById": "4103126051,4103127051",
+        "browsePathByName": "Everything Else",
+        "hasChildren": false,
+        "productTypeDefinitions": []
+    },
+    "5653744051": {
+        "browseNodeId": "5653744051",
+        "browseNodeName": "Garden",
+        "browseNodeStoreContextName": "Garden",
+        "browsePathById": "5653743051,5653744051",
+        "browsePathByName": "Garden",
+        "hasChildren": true,
+        "childNodes": "5707508051,5707506051,5707507051,8070269051,5265012051,5707512051,4989905051,5265008051,5707510051,5707514051,5707511051,5265022051,5707515051,5707550051,5707516051,5707517051,5707518051",
+        "productTypeDefinitions": "OUTDOOR_LIVING"
+    },
+    "5264049051": {
+        "browseNodeId": "5264049051",
+        "browseNodeName": "Gift Cards",
+        "browseNodeStoreContextName": "Gift Cards Store",
+        "browsePathById": "5264048051,5264049051",
+        "browsePathByName": "Gift Cards",
+        "hasChildren": true,
+        "childNodes": "5264601051,5264602051,5264603051",
+        "productTypeDefinitions": "ABIS_GIFT_CARD"
+    },
+    "4851918051": {
+        "browseNodeId": "4851918051",
+        "browseNodeName": "Health, Household & Personal Care",
+        "browseNodeStoreContextName": "Health & Household Care Products",
+        "browsePathById": "4851917051,4851918051",
+        "browsePathByName": "Health, Household & Personal Care",
+        "hasChildren": true,
+        "childNodes": "5148200051,5150067051,5148201051,5150070051,5379065051,5148204051,5148205051,5148206051,5148207051,5148209051,5148202051,5148210051",
+        "productTypeDefinitions": "HEALTH_PERSONAL_CARE,PERSONAL_CARE_APPLIANCE"
+    },
+    "4851976051": {
+        "browseNodeId": "4851976051",
+        "browseNodeName": "Home",
+        "browseNodeStoreContextName": "Home",
+        "browsePathById": "4851975051,4851976051",
+        "browsePathByName": "Home",
+        "hasChildren": true,
+        "childNodes": "7206924051,4975208051,4975209051,4975267051,4975210051,4975211051,4975212051,7547902051,7341396051,5016785051,7297563051,4975213051,4975214051,4975287051",
+        "productTypeDefinitions": "HOME,HOME_BED_AND_BATH,INSTALLATION_SERVICES,ART_AND_CRAFT_SUPPLY,FABRIC,HOME_FURNITURE_AND_DECOR,OUTDOOR_LIVING"
+    },
+    "4852034051": {
+        "browseNodeId": "4852034051",
+        "browseNodeName": "Home Improvement",
+        "browseNodeStoreContextName": "Home Improvement",
+        "browsePathById": "4852033051,4852034051",
+        "browsePathByName": "Home Improvement",
+        "hasChildren": true,
+        "childNodes": "5159219051,5159220051,5159221051,5159222051,5159223051,5159224051,5265008051,5159225051,5159226051,5159227051,5159228051,5159229051,5159230051",
+        "productTypeDefinitions": "INSTALLATION_SERVICES,TOOLS,HOME_ORGANIZERS_AND_STORAGE,HARDWARE,MAJOR_HOME_APPLIANCES,BUILDING_MATERIAL,PLUMBING_FIXTURE,SECURITY_ELECTRONICS,HOME_LIGHTING_AND_LAMPS,HOME_LIGHTING_ACCESSORY,LIGHT_SOURCE"
+    },
+    "2490360051": {
+        "browseNodeId": "2490360051",
+        "browseNodeName": "Kindle Store",
+        "browseNodeStoreContextName": "Kindle Store",
+        "browsePathById": "2490359051,2490360051",
+        "browsePathByName": "Kindle Store",
+        "hasChildren": true,
+        "childNodes": "2496746051,2496747051,2496751051,2496749051,2496750051,5648901051",
+        "productTypeDefinitions": []
+    },
+    "4852151051": {
+        "browseNodeId": "4852151051",
+        "browseNodeName": "Kitchen & Dining",
+        "browseNodeStoreContextName": "Kitchen & Dining",
+        "browsePathById": "4852150051,4852151051",
+        "browsePathByName": "Kitchen & Dining",
+        "hasChildren": true,
+        "childNodes": "5016607051,5016608051,5016609051,5016611051,5016612051,5016613051,5016616051,5016618051,5016619051",
+        "productTypeDefinitions": "KITCHEN"
+    },
+    "4852208051": {
+        "browseNodeId": "4852208051",
+        "browseNodeName": "Lighting",
+        "browseNodeStoreContextName": "Lighting",
+        "browsePathById": "4852207051,4852208051",
+        "browsePathByName": "Lighting",
+        "hasChildren": true,
+        "childNodes": "4989900051,4989902051,4989901051,4989903051,4989904051,4989905051,5159680051",
+        "productTypeDefinitions": "HOME_LIGHTING_AND_LAMPS,LIGHT_SOURCE,HOME_LIGHTING_ACCESSORY"
+    },
+    "4852265051": {
+        "browseNodeId": "4852265051",
+        "browseNodeName": "Movies & TV",
+        "browseNodeStoreContextName": "Movies & TV",
+        "browsePathById": "4852264051,4852265051",
+        "browsePathByName": "Movies & TV",
+        "hasChildren": true,
+        "childNodes": "5255938051,5255939051",
+        "productTypeDefinitions": "VIDEO_DVD,VIDEO_VHS,ABIS_VIDEO,ABIS_DVD"
+    },
+    "4852388051": {
+        "browseNodeId": "4852388051",
+        "browseNodeName": "Musical Instruments",
+        "browseNodeStoreContextName": "Musical Instruments & Equipment",
+        "browsePathById": "4852387051,4852388051",
+        "browsePathByName": "Musical Instruments",
+        "hasChildren": true,
+        "childNodes": "5029127051,5029128051,5029129051,5029130051,5029131051,5029132051,5029133051,5029134051,5029135051,5029136051,4894322051,5029137051,5029138051,5029139051",
+        "productTypeDefinitions": "MUSICAL_INSTRUMENTS"
+    },
+    "5547636051": {
+        "browseNodeId": "5547636051",
+        "browseNodeName": "Pantry Food & Drinks",
+        "browseNodeStoreContextName": "Pantry Food & Drinks",
+        "browsePathById": "5547635051,5547636051",
+        "browsePathByName": "Pantry Food & Drinks",
+        "hasChildren": true,
+        "childNodes": "5265192051,5555307051,5555309051,5555310051,5555312051,5555313051,5555311051,5555314051,5555315051,5555316051,5555318051,5555319051,5555320051,5148202051,5555321051,5555322051,5555323051,5555324051,5555325051,5555326051,5555327051,5555328051,5555329051,5555308051",
+        "productTypeDefinitions": "GROCERY,GOURMET_FOOD"
+    },
+    "5514968051": {
+        "browseNodeId": "5514968051",
+        "browseNodeName": "Pet Supplies",
+        "browseNodeStoreContextName": "Pet Supplies",
+        "browsePathById": "5514967051,5514968051",
+        "browsePathByName": "Pet Supplies",
+        "hasChildren": true,
+        "childNodes": "5581858051,5581859051,5581860051,5581857051,5581861051,5847952051,5847953051,5581862051,5581863051",
+        "productTypeDefinitions": "ABIS_PET_PRODUCTS,PET_SUPPLIES"
+    },
+    "6654372051": {
+        "browseNodeId": "6654372051",
+        "browseNodeName": "Prime Video",
+        "browseNodeStoreContextName": "Prime Video",
+        "browsePathById": "6654371051,6654372051",
+        "browsePathByName": "Prime Video",
+        "hasChildren": true,
+        "childNodes": "6693425051,6693426051",
+        "productTypeDefinitions": []
+    },
+    "4852503051": {
+        "browseNodeId": "4852503051",
+        "browseNodeName": "Software",
+        "browseNodeStoreContextName": "Software",
+        "browsePathById": "4852502051,4852503051",
+        "browsePathByName": "Software",
+        "hasChildren": true,
+        "childNodes": "5248981051,5248982051,5248983051,5248984051,5248985051,5248989051,5248988051,5249077051,5248991051,5248992051,5248987051,5248994051,5248995051,5248996051,5249078051",
+        "productTypeDefinitions": "PHYSICAL_SOFTWARE"
+    },
+    "4852560051": {
+        "browseNodeId": "4852560051",
+        "browseNodeName": "Sports, Fitness & Outdoors",
+        "browseNodeStoreContextName": "Sports, Fitness & Outdoors",
+        "browsePathById": "4852559051,4852560051",
+        "browsePathByName": "Sports, Fitness & Outdoors",
+        "hasChildren": true,
+        "childNodes": "5043920051,5043921051,5043922051,5043923051,5043924051,5346495051,5043925051,5043926051,5043938051,5043928051,5043929051,5043985051,5043930051,5043931051,5043933051,5043935051,5043936051,5043937051,5043939051,5043940051,5043941051,5043942051,5043943051,5043944051,5043945051,5043946051,5043948051,5043949051,5043950051,5043951051,5043952051,5043953051,5043954051,5043955051,5043956051,5043957051,7317885051,5043958051,7317883051,5043959051,5043961051,5043962051,5043963051,5043964051,5043965051,5043966051,5043967051,5043968051,5043970051,5043947051,5043971051,7317884051,7317881051,5043973051,5043974051,5043975051,5043972051,5043976051,5043977051,5043978051,5043979051,5043980051,5043981051,5043982051,5043983051,5043984051,5043986051,5043987051",
+        "productTypeDefinitions": "SPORTING_GOODS,OUTDOOR_RECREATION_PRODUCT"
+    },
+    "4852446051": {
+        "browseNodeId": "4852446051",
+        "browseNodeName": "Stationery & Office Products",
+        "browseNodeStoreContextName": "Office Products",
+        "browsePathById": "4852445051,4852446051",
+        "browsePathByName": "Stationery & Office Products",
+        "hasChildren": true,
+        "childNodes": "7206924051,4915575051,4915576051,4915577051,4915578051,4915579051,4915580051,4915581051,4915582051",
+        "productTypeDefinitions": "OFFICE_PRODUCTS,OFFICE_ELECTRONICS,PRINTER,MULTIFUNCTION_DEVICE,INK_OR_TONER,SCANNER,PHONE,BAR_CODE_READER,COMPUTER"
+    },
+    "4852618051": {
+        "browseNodeId": "4852618051",
+        "browseNodeName": "Toys & Games",
+        "browseNodeStoreContextName": "Toys & Games",
+        "browsePathById": "4852617051,4852618051",
+        "browsePathByName": "Toys & Games",
+        "hasChildren": true,
+        "childNodes": "5030677051,5030678051,5030679051,5030680051,5030682051,5030683051,5030684051,5030685051,5030686051,5030688051,5030689051,5030690051,5030691051,5030692051,5030693051,5030694051,5030695051,5030807051,5030697051,5030698051,5030699051,10390818051",
+        "productTypeDefinitions": "TOYS_AND_GAMES,COLLECTIBLE_CARD,CHILDRENS_COSTUME,HOBBIES"
+    },
+    "4852676051": {
+        "browseNodeId": "4852676051",
+        "browseNodeName": "Video Games",
+        "browseNodeStoreContextName": "Video Games",
+        "browsePathById": "4852675051,4852676051",
+        "browsePathByName": "Video Games",
+        "hasChildren": true,
+        "childNodes": "5250863051,5250864051,10342652051,5250894051,5250866051,10342651051,5250869051,8106425051,5250870051,5250873051,8436440051,5250875051,5250879051",
+        "productTypeDefinitions": "VIDEO_GAME_ACCESSORIES,AV_FURNITURE,VIDEO_GAME_HARDWARE"
+    },
+    "6986376051": {
+        "browseNodeId": "6986376051",
+        "browseNodeName": "Yggdrasil",
+        "browseNodeStoreContextName": [],
+        "browsePathById": "6986375051,6986376051",
+        "browsePathByName": "Yggdrasil",
+        "hasChildren": true,
+        "childNodes": "7485935051,7475751051,7475757051,7475756051,7475749051,7475758051,7486017051,7475752051,7485934051,7475753051,7475750051,7485936051,7475759051,7475755051,7475754051",
+        "productTypeDefinitions": []
+    }
+}
